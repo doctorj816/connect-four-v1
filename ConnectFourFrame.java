@@ -93,7 +93,7 @@ public class ConnectFourFrame extends JFrame
      */
     private void dropButtonColorize()
     {
-        dropButton.setForeground(board.getTurnColor(b.getTurn()));
+        dropButton.setForeground(ConnectFourBoardComponent.getTurnColor(b.getTurn()));
     }
     
     private void createButtons()
