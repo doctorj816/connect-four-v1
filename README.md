@@ -19,3 +19,7 @@ File description:
 * ConnectFourFrame.java - The JFrame (window) with all the GUI controls to play the game.
 * ConnectFourGUI.java - The main program that creates an instance of the GUI and makes it visible.
 * ConnectFourBoardTest.java - A console-based interface to play-test the ConnectFourBoard class.
+
+Future features:
+* Mouse click to drop pieces
+* Undo move button
