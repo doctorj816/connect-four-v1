@@ -1,5 +1,7 @@
 # Connect Four V1
 
+![Project Screenshot](docs/images/screenshot-c4.png)
+
 A connect four game written in Java.
 * Original version: 11/24/2019 by Justin Jang
 
